@@ -1,0 +1,6 @@
+{
+  "name": "CicloCampus",
+  "description": "Sistema inteligente de préstamo y renta de bicicletas para estudiantes y personal del campus universitario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
